@@ -2,4 +2,4 @@
 Test for YARA
 
 To execute tests, run the below command - 
-mvn clean test -DdeviceName=Pixel -Dudid=emulator-5554
+`mvn clean test -DdeviceName=Pixel -Dudid=emulator-5554`
